@@ -3,6 +3,7 @@ Set Full HD resolution when plugging Dummy HDMI dongle to a Raspberry PI on Rasp
 
 ````sh
 sudo cp 91_custom_xrandr /etc/X11/Xsession.d/
+chmod +x hdmi_fullhd.sh
 ./hdmi_fullhd.sh
 ````
 
