@@ -8,6 +8,6 @@ chmod +x hdmi_fullhd.sh
 ````
 
 Then open Start menu, Preferences, Screen Configuration
-Right clisk on the screen, Resolution, select another one, apply, refuse reboot
-The select the resolution 1920x1080, Apply, reboot.
+Right click on the screen, Resolution, select another one, apply, refuse reboot
+Then select the resolution 1920x1080, Apply, reboot.
 You should have the desired resolution now :)
